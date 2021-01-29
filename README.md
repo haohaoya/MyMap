@@ -1,6 +1,6 @@
 # MyMap
 
-Java Swing框架的桌面应用程序
+## java Swing 桌面项目
 
 作者：段浩浩
 
